@@ -1,4 +1,4 @@
-# 🇸🇦 freeCodeCamp Arabic Translation
+# freeCodeCamp Arabic Translation
 
 This repository is a community project dedicated to translating freeCodeCamp resources into Arabic — making high-quality programming education accessible to Arabic speakers worldwide.
 
