@@ -1,4 +1,3 @@
-# freeCodeCamp-arabic-translation
 # freeCodeCamp Arabic Translation
 
 This project translates freeCodeCamp News articles into Arabic.  
