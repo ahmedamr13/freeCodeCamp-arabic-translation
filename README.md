@@ -4,9 +4,6 @@
 
 **ترجمة عربية لكتاب [How to Learn to Code and Get a Developer Job](https://www.freecodecamp.org/news/learn-to-code-book/) لمؤلفه كوينسي لارسون، مؤسس freeCodeCamp.**
 
-![حالة الترجمة](https://img.shields.io/badge/الأبواب_المترجمة-1%20من%205-orange)
-![اللغة](https://img.shields.io/badge/اللغة-العربية-green)
-
 إذا كنت تريد أن تتعلم البرمجة وتحصل على وظيفة مطور، فهذا الكتاب سيريك كيف تفعل ذلك، والآن بالعربية.
 
 ## 📖 ابدأ القراءة
